@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "TGTA-Flood: Terrain-Aware Spatiotemporal AI Framework for Dynamic Flash-Flood Propagation and Location-Aware Early Warning in Mountainous River Networks"
+message: "Please cite the associated manuscript and this repository."
+type: software
+authors:
+  - family-names: "Prathap"
+    given-names: "Joe"
+  - family-names: "Senthilkumar"
+    given-names: "S"
+  - family-names: "Dani"
+    given-names: "Vinil W"
+version: "1.0.0"
+date-released: "2026-09-26"
+repository-code: "https://github.com/[REPLACE-WITH-OWNER]/TGTA-Flood"
