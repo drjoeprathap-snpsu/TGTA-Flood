@@ -80,7 +80,7 @@ results/
 ```
 
 ## Reproduction principle
-No values have been added to the GeoMorphAI source file to make it conform to manuscript tables. Derived files are clearly identified as derived. Any temporal/graph/propagation variables needed for the complete TGTA-Flood pipeline must come from the actual experimental data/model release used to generate the corresponding manuscript results.
+No values have been added to the GeoMorphAI source file to make it conform to manuscript tables. Derived files are clearly identified as derived. 
 
 ## Citation
 See `CITATION.cff`.
